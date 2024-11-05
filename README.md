@@ -11,21 +11,7 @@
 
 ## 👨‍💻 About Me 
 
-```typescript
-const developer = {
-  name: "Madushi Tharaka",
-  location: "Sri Lanka 📍",
-  role: "Ui/Ux Desiger",
-  education: "BSc(Hons)Computer Science",
-  interests: ["UI/UX Design", "Mobile Application Development"],
-  currentFocus: "Building scalable distributed systems",
-  communities: {
-    founder: ["Your Community"],
-    member: ["Tech Communities You're Part Of"],
-  },
-  motto: "Converting caffeine into code ☕️"
-};
-```
+name : I'm Madushi Tharaka<br>Location : Sri Lanka<br>Role : UI/UX Designer<br>Education : BSc(Hons)Computer Science<br>Interests : [UI/UX Design , Mobile Application Development]
 
 ## 🚀 Tech Stack
 
