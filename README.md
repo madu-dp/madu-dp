@@ -11,8 +11,6 @@
 
 ## 👨‍💻 About Me 
 
-Got it, let me update the `about-me-profile` artifact to remove the dependency on the `lucide-react` library. Here's the revised version:
-
 ```tsx
 import React from 'react';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
@@ -57,13 +55,21 @@ const AboutMe = () => {
           </span>
           <p>Education: BSc(Hons)Computer Science</p>
         </div>
-        <div className="flex items-center">
+        <div className="flex items-center mb-4">
           <span className="bg-blue-500 text-white rounded-full p-2 mr-2">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-4 h-4">
               <path fillRule="evenodd" d="M3 6a3 3 0 013-3h12a3 3 0 013 3v12a3 3 0 01-3 3H6a3 3 0 01-3-3V6zm3.75 1.5a.75.75 0 000 1.5h12.5a.75.75 0 000-1.5H6.75zm0 3a.75.75 0 000 1.5h12.5a.75.75 0 000-1.5H6.75zm0 3a.75.75 0 000 1.5h12.5a.75.75 0 000-1.5H6.75z" clipRule="evenodd" />
             </svg>
           </span>
           <p>Interests: [UI/UX Design, Mobile Application Development]</p>
+        </div>
+        <div className="flex items-center mb-4">
+          <span className="bg-blue-500 text-white rounded-full p-2 mr-2">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-4 h-4">
+              <path fillRule="evenodd" d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25zm-.952 10.272a.75.75 0 10-1.06-1.06 3.75 3.75 0 011.06 1.06zm2.37-6.187a3.75 3.75 0 00-5.32 5.32l-10.84 10.84a.75.75 0 101.061 1.06l10.84-10.84a3.75 3.75 0 005.32-5.32z" clipRule="evenodd" />
+            </svg>
+          </span>
+          <a href="https://github.com/your-github-username" className="hover:underline">My GitHub Profile</a>
         </div>
       </CardContent>
     </Card>
@@ -73,16 +79,6 @@ const AboutMe = () => {
 export default AboutMe;
 
 ```
-
-In this updated version, I've replaced the `lucide-react` icons with inline SVG icons that use Tailwind CSS utility classes for styling. This ensures the artifact can be rendered without any external library dependencies.
-
-The key changes are:
-
-1. Removed the `lucide-react` import and replaced it with inline SVG icons.
-2. Wrapped the SVG icons in `span` elements with the appropriate Tailwind CSS classes for styling.
-3. Adjusted the icon sizes and positioning to match the previous design.
-
-Please let me know if this updated `about-me-profile` artifact looks good or if you have any other feedback!
 ## 🚀 Tech Stack
 
 <div align="center">
