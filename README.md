@@ -1,6 +1,6 @@
 # Hii, I'm Madushi Tharaka 👋
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF0&center=true&vCenter=true&width=435&lines=UI/UX+Designer;Mobile+Application+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF0&center=true&vCenter=true&width=435&lines=UI/UX+Designer;Mobile+Application+Developer;Full+Stack+Developer;" alt="Typing SVG" />
 </div>
 
 ## 🌐 Socials:
@@ -11,7 +11,33 @@
 
 ## 👨‍💻 About Me 
 
-name : I'm Madushi Tharaka<br>Location : Sri Lanka<br>Role : UI/UX Designer<br>Education : BSc(Hons)Computer Science<br>Interests : [UI/UX Design , Mobile Application Development]
+<table>
+  <tr>
+    <td><strong>Name:</strong></td>
+    <td>Madushi Tharaka</td>
+  </tr>
+  <tr>
+    <td><strong>Location:</strong></td>
+    <td>Sri Lanka 📍</td>
+  </tr>
+  <tr>
+    <td><strong>Role:</strong></td>
+    <td>UI/UX Designer 🎨</td>
+  </tr>
+  <tr>
+    <td><strong>Education:</strong></td>
+    <td>BSc(Hons)Computer Science 🎓</td>
+  </tr>
+  <tr>
+    <td><strong>Interests:</strong></td>
+    <td>
+      <ul>
+        <li>UI/UX Design 🖌️</li>
+        <li>Mobile Application Development 📱</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Tech Stack
 
