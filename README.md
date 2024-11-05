@@ -46,8 +46,8 @@ const developer = {
 ### 🔝 Top Contributed Repo
 <div align="center">
 ![](https://github-contributor-stats.vercel.app/api?username=madu-dp&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
 ---
-<div align="center">
 [![](https://visitcount.itsvg.in/api?id=madu-dp&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
