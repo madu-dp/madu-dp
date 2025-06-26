@@ -16,7 +16,7 @@ const developer = {
   name: "Madushi Tharaka",
   location: "Sri Lanka 📍",
   education: "BSc(Hons)Computer Science",
-  interests: ["UI/UX Design", "fromtend Development"],
+  interests: ["UI/UX Design", "frontend Development"],
   motto: "Converting caffeine into code ☕️"
 };
 ```
